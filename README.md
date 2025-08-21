@@ -9,8 +9,11 @@ Bu proje Unity kullanılarak yapılmış basit bir **top oyunu** örneğidir.
 - Engellerden gecerek hedefe ulaşma
 
 ## Kurulum
-1. Oyunum adlı klasör ile oyunun build edilmiş haline erişebilirsiniz.
+Projeyi bilgisayarına indirip Unity Hub üzerinden açabilirsin.
 
+## Oynanabilir Sürüm
+Oyunu oynamak için buradan indir:  
+👉 [Google Drive Linki](https://drive.google.com/drive/folders/1Q9Akxyh_a0TRCw4kKnc9T_Cg2-w7ADjR?usp=drive_link)
 
 ## Lisans
 Bu proje kişisel öğrenim amaçlıdır.
