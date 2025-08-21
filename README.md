@@ -6,7 +6,7 @@ Bu proje Unity kullanılarak yapılmış basit bir **top oyunu** örneğidir.
 
 ## Özellikler
 - Topu yön tuşlarıyla hareket ettirme
-- Engellerden geçerek hedefe ulaşma
+- Engellerden gecerek hedefe ulaşma
 
 ## Kurulum
 1. Oyunum adlı klasör ile oyunun build edilmiş haline erişebilirsiniz.
